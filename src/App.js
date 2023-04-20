@@ -1,9 +1,11 @@
-import React from "react";
-import "./App.css";
-import Tutorial from "./components/Tutorial";
+import React from 'react';
 
 function App() {
-  return <Tutorial />;
-};
+  return (
+    <>
+    
+    </>
+  );
+}
 
 export default App;
