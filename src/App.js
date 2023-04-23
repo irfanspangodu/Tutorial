@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import Header from "./components/includes/Header";
 
 function App() {
   return (
     <>
-      <h1>Hello Wo</h1>
+      <Header />
     </>
   );
 }
